@@ -1,1 +1,5 @@
+title: Congroo
+author: kycfeel
+description: 이것은 필요한 기록물.
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://devmino.github.io" # the base hostname & protocol for your site, e.g. http://example.com
